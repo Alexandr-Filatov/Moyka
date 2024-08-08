@@ -7,7 +7,7 @@
 	(title_block
 		(title "Плата управления блока коммутаций HVU")
 		(company "ООО \"Электротранспортные технологии\"")
-		(comment 1 "НВЦТ. 0001.0400.002 Э3")
+		(comment 1 "НВЦТ. 0001.0400.010 Э3")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LMV321"

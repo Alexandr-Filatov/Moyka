@@ -7,7 +7,7 @@
 	(title_block
 		(title "Блок коммутаций HVU")
 		(company "ООО \"Электротранспортные технологии\"")
-		(comment 1 "НВЦТ. 0001.0400.001 Э2")
+		(comment 1 "НВЦТ. 0001.0400.000 Э2")
 	)
 	(lib_symbols
 		(symbol "Device:C"
